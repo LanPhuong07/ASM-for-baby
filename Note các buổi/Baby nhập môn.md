@@ -2,7 +2,7 @@
 <h2>1. Biến trong ASM</h2>
 Được khai báo trong .data
 
-![[Pasted image 20220810094527.png]](https://github.com/LanPhuong07/ASM-ASM-ASM/blob/main/pic/Pasted%20image%2020220810094527.png)
+![[Pasted image 20220810094527.png]](https://github.com/LanPhuong07/ASM-for-baby/blob/main/pic/Pasted%20image%2020220810094527.png)
 
 
 <h2>2. Khai báo biến</h2> 
